@@ -10,3 +10,5 @@ Przykłady: [Express.js](/Design-patterns/Creational-Design-Patterns/Singleton/E
 Przykłady: [Express.js](/Design-patterns/Structural-Design-Patterns/Decorator/Example/express.js), [PHP](/Design-patterns/Structural-Design-Patterns/Decorator/Example/php), [Python](/Design-patterns/Structural-Design-Patterns/Decorator/Example/python)
 
 ### [Wzorce behawioralne](/Design-patterns/Behavioral-Design-Patterns)
+* [Observer](/Design-patterns/Behavioral-Design-Patterns/Observer) Wzorzec Observer jest wzorcem projektowym behawioralnym, który pozwala na zdefiniowanie mechanizmu subskrybcji. Dzięki czamu może informować zainteresowane obiekty o zmianie stanu obserwowanego obiektu.  
+Przykłady: [Express.js](/Design-patterns/Behavioral-Design-Patterns/Observer/Example/express.js), [PHP](/Design-patterns/Behavioral-Design-Patterns/Observer/Example/php), [Python](/Design-patterns/Behavioral-Design-Patterns/Observer/Example/python)
